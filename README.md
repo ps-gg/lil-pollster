@@ -1,2 +1,2 @@
-# lil-polster
+# lil-pollster
 Poll site
